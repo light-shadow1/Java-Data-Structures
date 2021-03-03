@@ -1,1 +1,1 @@
-# java-interview
+# java-data-structures
